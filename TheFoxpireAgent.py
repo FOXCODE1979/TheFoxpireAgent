@@ -15,7 +15,6 @@ TWILIO_AUTH = "f4ba3c50fd98a9dc663f054b3ce2416b"
 TWILIO_FROM = "whatsapp:+14155238886"
 TO_NUMBER = "whatsapp:+971585663878"
 
-# === APP ===
 st.set_page_config(page_title="TheFoxpireAgent", layout="wide")
 st.title("🦊 TheFoxpireAgent – AI Investment Monitor")
 

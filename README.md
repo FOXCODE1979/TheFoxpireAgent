@@ -1,3 +1,3 @@
 # TheFoxpireAgent
 
-Streamlit AI Investment Monitor with WhatsApp alerts and live GitHub syncing.
+AI-powered portfolio tracker with WhatsApp alerts and GitHub integration.
