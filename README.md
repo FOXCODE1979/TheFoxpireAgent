@@ -1,3 +1,3 @@
 # TheFoxpireAgent
 
-Streamlit app to track and monitor your investment portfolio with smart insights and WhatsApp alert hooks.
+Streamlit AI Investment Monitor with WhatsApp alerts and live GitHub syncing.
