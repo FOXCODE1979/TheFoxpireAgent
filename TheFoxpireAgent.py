@@ -7,7 +7,7 @@ import requests
 from twilio.rest import Client
 
 # === CONFIG ===
-CSV_URL = "https://sandbox.openai.com/mnt/data/master_portfolio_currency_aware_hosted.csv"
+CSV_URL = "https://raw.githubusercontent.com/FOXCODE1979/TheFoxpireAgent/main/master_portfolio_currency_aware.csv"
 FX_RATES = {"EUR": 1.0, "USD": 0.93, "AED": 0.25}
 
 TWILIO_SID = "AC5b4107ae4c334976e6babd6c2eb3ba36"
